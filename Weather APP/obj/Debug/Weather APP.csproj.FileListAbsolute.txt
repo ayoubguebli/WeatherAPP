@@ -1,0 +1,13 @@
+C:\Users\Gewoo\source\repos\Weather APP\Weather APP\bin\Debug\Weather APP.exe.config
+C:\Users\Gewoo\source\repos\Weather APP\Weather APP\bin\Debug\Weather APP.exe
+C:\Users\Gewoo\source\repos\Weather APP\Weather APP\bin\Debug\Weather APP.pdb
+C:\Users\Gewoo\source\repos\Weather APP\Weather APP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gewoo\source\repos\Weather APP\Weather APP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gewoo\source\repos\Weather APP\Weather APP\obj\Debug\Weather APP.csproj.AssemblyReference.cache
+C:\Users\Gewoo\source\repos\Weather APP\Weather APP\obj\Debug\Weather_APP.Form1.resources
+C:\Users\Gewoo\source\repos\Weather APP\Weather APP\obj\Debug\Weather_APP.Properties.Resources.resources
+C:\Users\Gewoo\source\repos\Weather APP\Weather APP\obj\Debug\Weather APP.csproj.GenerateResource.cache
+C:\Users\Gewoo\source\repos\Weather APP\Weather APP\obj\Debug\Weather APP.csproj.CoreCompileInputs.cache
+C:\Users\Gewoo\source\repos\Weather APP\Weather APP\obj\Debug\Weather .AC5FD063.Up2Date
+C:\Users\Gewoo\source\repos\Weather APP\Weather APP\obj\Debug\Weather APP.exe
+C:\Users\Gewoo\source\repos\Weather APP\Weather APP\obj\Debug\Weather APP.pdb
